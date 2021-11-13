@@ -1,0 +1,1 @@
+print(''.join(map(lambda x:chr(int(x)),input().split(' '))))
